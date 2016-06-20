@@ -2,7 +2,7 @@
 Name=AppImageMonitor
 Exec=monitorAppImages.sh
 Icon=AppImageMonitor
-Terminal=True
+Terminal=true
 Type=Application
 Categories=System;
 Comment=AppImage desktop integration daemon
